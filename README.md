@@ -1,1 +1,1 @@
-# Breast-Cancer-Diagnosis
+A machine learning model for breast cancer classification using the Breast Cancer Wisconsin (Diagnostic) Dataset. It contains various features computed from digitized images of fine needle aspirates (FNA) of breast mass. I leveraged Python's extensive libraries for data visualization and EDA to optimize feature selection and model optimization. The goal of this project is to predict whether a breast mass is benign or malignant. 
